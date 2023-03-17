@@ -5,12 +5,16 @@
  */
 int main(void)
 {
-	int n = 122;
+	int n;
+	int x;
 
-	while (n >= 97)
+	for (n = 48; n <= 57; n++)
 	{
 		putchar(n);
-		n--;
+	}
+	for (n = 97; x <= 102; x++)
+	{
+		putchar(x);
 	}
 	putchar('\n');
 	return (0);
