@@ -5,17 +5,22 @@
  */
 int main(void)
 {
-	int n;
-	int x;
+	char n;
 
-	for (n = 48; n <= 57; n++)
-	{
-		putchar(n);
-	}
-	for (n = 97; x <= 102; x++)
-	{
-		putchar(x);
-	}
+	int d;
+	
+	c = 'a';
+	d = 0;
+
+	while
+	       	(d < 10) {
+			putchar(d + '0');
+			d++;
+		}
+	while
+		(c <= 'f') {
+			putchar(c);
+		}
 	putchar('\n');
 	return (0);
 }
