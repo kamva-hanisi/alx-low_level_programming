@@ -3,6 +3,7 @@
 
 /**
  * _islower - convect to lowercase
+ * @c: letter to be checked
  * Return: 0
  */
 int _islower(int c)
