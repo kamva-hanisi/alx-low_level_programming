@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - print alphabet_x10
- * long print description
+ * print alphabet_x10
+ * Description: long print description
  * Return: 0
  */
 void print_alphabet_x10(void)
