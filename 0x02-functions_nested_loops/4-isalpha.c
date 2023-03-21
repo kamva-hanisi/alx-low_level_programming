@@ -3,17 +3,17 @@
 
 /**
  * _isalpha - convect to uppercase
- * @c: checked the letters 
+ * @c: checked the letters
  * Return: 0
  */
 int _isalpha(int c)
 {
-	if (isalpha(c) > 0 )
+	if (isalpha(c) > 0)
 	{
-		return 1;
+		return (1);
 	}
-	else 
+	else
 	{
-		return 0;
+		return (0);
 	}
 }
