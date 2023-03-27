@@ -4,7 +4,7 @@
  * _putchar - print each character
  * @s: char to checked
  * Description: This will reverse a string
- * Return: 0 
+ * Return: 0
  */
 void rev_string(char *s)
 {
