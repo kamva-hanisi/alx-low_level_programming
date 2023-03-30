@@ -1,6 +1,12 @@
 #include <stdio.h>
 
 /*
+ * write all line code ...
+ *
+ *You are not allowed to use the variable a
+ *You are not allowed to modify the variable p
+ *only one statement
+ *
 	* write your line of code here...
 	*
 	*(p + 5) = 98;
