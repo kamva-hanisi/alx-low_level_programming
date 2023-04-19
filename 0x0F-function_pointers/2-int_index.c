@@ -4,9 +4,9 @@
   * int_index - return index place
   * @array: array
   * @size: size of elements in array
-  * @cmp: ...
+  * @cmp:...
   *
-  * Return: 0
+  * Return:0
   */
 int int_index(int *array, int size, int (*cmp)(int))
 {
