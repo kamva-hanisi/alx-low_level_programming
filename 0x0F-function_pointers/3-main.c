@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /**
-  * main - error
+  * main - ...
   * @argc: ...
-  * @argv: convect
+  * @argv: ...
   *
-  * Return: 0
+  * Return: ...
   */
 int main(int argc, char *argv[])
 {
