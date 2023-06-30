@@ -6,7 +6,7 @@
  * struct list_s - singly linked list FOR NODE
  * @str: string - List of characters(string)
  * @len: length of the string
- * @print: points to the next node
+ * @next: points to the next node
  * Description: singly linked list node structure
  *
  */
