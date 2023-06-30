@@ -1,8 +1,5 @@
 #ifndef LISTS_H
 #define LISTS_H
-#include <stdarg.h>
-#include <stdio.h>
-#include <unistd.h>
 
 /**
  * struct list_s - singly linked list FOR NODE
@@ -14,7 +11,7 @@ typedef struct list_s
 {
 	char *str;
 	unsigned int len;
-	struct list_s *print;
+	struct list_s *next;
 } list_t;
 
 size_t print_list(const list_t *h);
