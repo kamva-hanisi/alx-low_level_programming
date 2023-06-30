@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 /**
- * feelMylifeFun - Apply the constructor attribute to feelMylifeFun() so that it is executed before main()
+ * feelMylifeFun - Apply the constructor attribute to feelMylifeFun() so that it
+ * is executed before main()
  *
  */
 
