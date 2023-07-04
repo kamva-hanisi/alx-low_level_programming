@@ -1,0 +1,1 @@
+prints all the elements
