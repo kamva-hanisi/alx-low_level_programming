@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /**
-* print_dlistint - Prints all numbers of a distint_t list.
+* print_dlistint - Prints all elements of a distint_t list
 * @h: Pointer to the head of the list
-* Return: the numbers
+* Return: the number of elements
 */
 size_t print_dlistint(const dlistint_t *h)
 {
